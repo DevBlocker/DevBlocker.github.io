@@ -183,10 +183,12 @@ img{
 .nav__link, .nav__logo, .nav__toggle{
   color: var(--text-color);
   font-weight: var(--font-medium);
+  width: 150px;
 }
 
 .nav__logo:hover{
   color: var(--first-color);
+  width: 160px;
 }
 
 .nav__link{
