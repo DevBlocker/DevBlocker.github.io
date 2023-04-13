@@ -327,6 +327,40 @@ img{
   padding: 0 1.5rem;
 }
 
+/*========== BOX ==========*/
+.box__data{
+  text-align: left;
+}
+
+.box__description{
+  margin-bottom: var(--mb-5);
+}
+
+.box__img{
+  width: 500px;
+  justify-self: center;
+}
+
+a:link {
+  text-decoration: none;
+  color: #C7D1CC;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #C7D1CC;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #069C54;
+}
+
+a:active {
+  text-decoration: none;
+  color: #069C54;
+}
+
 /*========== MENU ==========*/
 .menu__container{
   grid-template-columns: repeat(2, 1fr);
